@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Изучение английского</string>
+    <string name="sign_up_layout">Создать аккаунт</string>
+    <string name="sign_in_layout">Добро пожаловать</string>
+    <string name="name">Имя</string>
+    <string name="email">E-mail</string>
+    <string name="password">Пароль</string>
+    <string name="confirm">Повторите пароля</string>
+    <string name="sign_up">Зарегестрироваться</string>
+    <string name="back_text_layout">Вернуться назад</string>
+    <string name="forward_text_layout">Войти в аккаунт</string>
+    <string name="alreadyRegistry">Есть аккаунт?</string>
+    <string name="Go_Registry">Нет аккаунта?</string>
+    <string name="checkboxtext">Запомнить данные</string>
+    <string name="ListenLayout">Изучение Aнглийского Aлфавита</string>
+    <string name="ListenGoBack">Закончить тест?</string>
+    <string name="GoBackListen">Выйти</string>
+    <string name="ButGoTest">Начать тест</string>
+    <string name="ListenTestLayout">Тест\n по итогам изучения</string>
+    <string name="Question">Вопрос</string>
+    <string name="AnsverA">A</string>
+    <string name="AnsverB">B</string>
+    <string name="AnsverC">C</string>
+    <string name="butBackListen">Завершить тест</string>
+    <string name="FinishTestLayout">Вы завершили тест! Поздравляем!</string>
+    <string name="FinishScore">Результат: </string>
+    <string name="FinishGoBack">Завершить</string>
+
+</resources>

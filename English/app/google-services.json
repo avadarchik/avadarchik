@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "103685581534",
+    "project_id": "saifapp5-baefa",
+    "storage_bucket": "saifapp5-baefa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103685581534:android:5e23741c52b5e92ef9704f",
+        "android_client_info": {
+          "package_name": "com.example.saifapp5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103685581534-qf1funnrclc19qufsg26603gfbpg9tn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBS2n79MDla1mRCDUgjPpRxmVihDG9neI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103685581534-qf1funnrclc19qufsg26603gfbpg9tn7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,32 @@
+package com.example.saifapp5
+
+data class Alpabet(val imageId: Int, val title: String)
+class AlpabetList {val list = arrayListOf(
+    Alpabet(R.drawable.forwardarrowlisten, "Начало : Прокрути влево"),
+    Alpabet(R.drawable.a, "[eɪ] Эй"),
+    Alpabet(R.drawable.b, "[biː] Би"),
+    Alpabet(R.drawable.c, "[siː] Си"),
+    Alpabet(R.drawable.d, "[diː] Ди"),
+    Alpabet(R.drawable.e, "[iː] И"),
+    Alpabet(R.drawable.f, "[ef] Эф"),
+    Alpabet(R.drawable.g, "[dʒiː] Джи"),
+    Alpabet(R.drawable.h, "[eɪtʃ] Эйч"),
+    Alpabet(R.drawable.i, "[aɪ] Ай"),
+    Alpabet(R.drawable.j, "[dʒeɪ] Джей"),
+    Alpabet(R.drawable.k, "[keɪ] Кэй"),
+    Alpabet(R.drawable.l, "[el] Эл"),
+    Alpabet(R.drawable.m, "[em] Эм"),
+    Alpabet(R.drawable.n, "[ɛn] Эн"),
+    Alpabet(R.drawable.o, "[əʊ] Оу"),
+    Alpabet(R.drawable.p, "[piː] Пи"),
+    Alpabet(R.drawable.q, "[kjuː] Кью"),
+    Alpabet(R.drawable.r, "[ɑː, ar] Ар"),
+    Alpabet(R.drawable.s, "[es] Эс"),
+    Alpabet(R.drawable.t, "[tiː] Ти"),
+    Alpabet(R.drawable.u, "[juː] Ю"),
+    Alpabet(R.drawable.v, "[viː] Ви"),
+    Alpabet(R.drawable.w, "['dʌbljuː] Дабл-ю"),
+    Alpabet(R.drawable.x, "[eks] Экс"),
+    Alpabet(R.drawable.y, "[waɪ] Уай"),
+    Alpabet(R.drawable.z, "[zɛd, ziː] Зэд"),
+    Alpabet(R.drawable.backarrowlisten, "Закончили"))}
